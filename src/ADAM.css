@@ -305,3 +305,10 @@ footer p:nth-child(2){
     bottom: 35px; 
     font-size: 14px;
 }
+/* responsive design */
+
+  @media screen and (width < 380px) {
+    .box {display:block;margin: auto;}
+    .main {display:block;margin: auto;}
+    .menu {display: none;}
+  }

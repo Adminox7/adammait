@@ -307,7 +307,7 @@ footer p:nth-child(2){
 }
 /* responsive design */
 
-  @media screen and (width < 380px) {
+  @media screen and (width < 480px) {
     .box {display:block;margin: auto;}
     .main {display:block;margin: auto;}
     .menu {display: none;}

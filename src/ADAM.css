@@ -311,4 +311,20 @@ footer p:nth-child(2){
     .box {display:block;margin: auto;}
     .main {display:block;margin: auto;}
     .menu {display: none;}
+      .title h2{
+        color:white;
+        font-size: 55px;
+        width: 130px;
+        margin: 30 auto;
+        text-align: center;
+        
+    }
+    .about-text p{
+        color: #fcfc;
+        letter-spacing: 1px;
+        line-height: 28px;
+        font-size: 18px;
+        margin-bottom: 45px;
+        width: 400px;
+        }
   }
